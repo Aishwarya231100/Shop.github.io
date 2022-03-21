@@ -1,0 +1,155 @@
+ <section class="section featured" id="featured">
+      <div class="featured__container container">
+        <div class="title">
+          <h1 class="primary__title">Training and Placement</h1>
+        </div>
+
+        <div class="featured__center">
+          <div class="product">
+            <div class="img__container">
+              <img src="./images/wipro.png" alt="" />
+            </div>
+            <div class="product__bottom">
+              <div class="rating">
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-empty"></use>
+                  </svg>
+                </span>
+              </div>
+              <h3>Wipro</h3>
+              <a href="#">Info</a>
+            </div>
+          </div>
+          <div class="product">
+            <div class="img__container">
+              <img src="./images/mahindra.jpg" alt="" />
+            </div>
+            <div class="product__bottom">
+              <div class="rating">
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-empty"></use>
+                  </svg>
+                </span>
+              </div>
+              <h3>Mahindra</h3>
+              <a href="#">Info</a>
+            </div>
+          </div>
+          <div class="product">
+            <div class="img__container">
+              <img src="./images/landt.jpg" alt="" />
+            </div>
+            <div class="product__bottom">
+              <div class="rating">
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-empty"></use>
+                  </svg>
+                </span>
+              </div>
+              <h3>L&T Infotech</h3>
+              <a href="#">Info</a>
+            </div>
+          </div>
+          <div class="product">
+            <div class="img__container">
+              <img src="./images/tcs.png" alt="" />
+            </div>
+            <div class="product__bottom">
+              <div class="rating">
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-full"></use>
+                  </svg>
+                </span>
+                <span>
+                  <svg>
+                    <use xlink:href="./images/sprite.svg#icon-star-empty"></use>
+                  </svg>
+                </span>
+              </div>
+              <h3>TCS</h3>
+              <a href="#">Info</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section>
